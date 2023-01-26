@@ -1,4 +1,4 @@
-# internship_task
+# Stock Page
 
 A new Flutter project.
 
