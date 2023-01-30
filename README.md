@@ -3,8 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92147303/215571157-405d9199-3b42-44e5-acc2-85138d972d1e.gif)
 
-https://user-images.githubusercontent.com/92147303/214957278-eaf41b96-7951-45a2-87f7-c857eab21cff.mp4
+
 
 
 
